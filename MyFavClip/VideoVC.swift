@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  VideoVC.swift
 //  MyFavClip
 //
 //  Created by Kasidit Phoncharoen on 2/16/2560 BE.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class VideoVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
